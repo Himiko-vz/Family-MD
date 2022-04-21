@@ -19,8 +19,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ JANGAN SPAM BOT!!
+├ BERI JEDA 5 DETIK!!
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
